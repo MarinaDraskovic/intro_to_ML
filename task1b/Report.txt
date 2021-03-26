@@ -1,0 +1,7 @@
+Firstly, we load the files and extract y-s and x1-x5 from the given train data.
+
+For the linear fit in this task, we do not need only x, but also x^2, e^x, cos(x) and constant 1. Therefore, we create a new train data X matrix that contains, not only x-s, but x^2, e^x, cos(x), 1 as well. It will have the same number of rows, but the number of columns will be 21 instead of 5 (x1-x5, x1^2-x5^2, e^x1-e^x5, cos(x1)-cos(x5), 1).
+
+Then we do the linear fit using the functions linear_model.LinearRegression(fit_intercept = False).fit() and linear.predict().
+
+In the end, we access the coefficients of the linear fit as linear.coef_, and write them to the csv output file.
