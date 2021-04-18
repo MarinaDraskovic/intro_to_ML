@@ -1,0 +1,63 @@
+Without trend:********************  HIST GRADIENT BOOSTING 
+ROC score:  0.9275675337860843
+ROC score:  0.8028721915076822
+ROC score:  0.7446618500109995
+ROC score:  0.7510539884112424
+ROC score:  0.7469808532113348
+ROC score:  0.8078729739373687
+ROC score:  0.8987416999288345
+ROC score:  0.8318566417241469
+ROC score:  0.7538221271610399
+ROC score:  0.9329996003882496
+ROC score:  0.6963594335829961 - task 2
+
+R2 score:  0.41280006930983226
+R2 score:  0.618232586443403
+R2 score:  0.38469160215706555
+R2 score:  0.6338353139989393
+_______________________________________________________
+With trend:************************ HIST GRADIENT BOOSTING 
+ROC score:  0.9299003088107518
+ROC score:  0.8031987608486595
+ROC score:  0.7477393744526645
+ROC score:  0.7537014112370392
+ROC score:  0.7485231792576018
+ROC score:  0.8142904359192837
+ROC score:  0.8970563575931381
+ROC score:  0.8357107102670535
+ROC score:  0.7546146306673535
+ROC score:  0.9334973830435954
+ROC score:  0.6913899892145194 - task 2
+
+R2 score:  0.4315989184837205
+R2 score:  0.6319116529937765
+R2 score:  0.3978706887787095
+R2 score:  0.6599542701466206
+
+This also varyis a little from run to run. I guess there is also some another random thingie inside
+___________________________________________________________
+***************** RANDOM FOREST
+for task 2: 
+ROC score:  0.6992813291533403
+
+task 3: takes too long
+_______________________________________________
+MEDINA **** HIST
+ROC score:  0.9310867893468737
+ROC score:  0.7985395173154021
+ROC score:  0.7450505941096053
+ROC score:  0.7489664875085307
+ROC score:  0.7447147435532003
+ROC score:  0.8128146442454176
+ROC score:  0.8953945340935183
+ROC score:  0.8350271912216016
+ROC score:  0.7594086787475302
+ROC score:  0.9338525708115661
+ROC score:  0.6962300577081816 - task 2 - Random forest
+
+R2 score:  0.4324244766452422
+R2 score:  0.6320441078233323
+R2 score:  0.3941437405822451
+R2 score:  0.6605121212215167
+
+
