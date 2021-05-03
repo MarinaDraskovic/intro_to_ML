@@ -1,0 +1,6 @@
+This task was solved by encoding the 4-character strings thanks to the sklearn One-Hot-Encoder.
+This is motivated by the fact that the letters have no relations between them (A is not closer to C than to Y).
+  
+The resulting matrix was then fed to the standard Neural Network classifier from sklearn (MLPClassifier).
+This was motivated by the ability of neural networks to capture features and do dimensionality reduction on its own.
+We didn't have to specify the layers on our own, as the standard design from sklearn already gave a good margin on the baseline.
